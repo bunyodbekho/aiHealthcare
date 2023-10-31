@@ -56,11 +56,7 @@ export default function Main() {
           {`The Aral Sea Crisis and its Impacts`}
         </Heading>
         <Container>
-          <Image
-            src="/aral-years.png"
-            alt="aral-crisis"
-            sizes="100px"
-          />
+          <Image src="/aral-years.png" alt="aral-crisis" sizes="100px" />
         </Container>
         <Text fontSize={"xl"}>
           {`The Aral Sea, once one of the world's largest inland bodies of water,
@@ -95,10 +91,7 @@ export default function Main() {
             has resulted in a horrifying public health crisis.`}
             </Text>
             <Container>
-              <Image
-                src="./src/assets/images/article-1/aral-crisis-1.jpg"
-                alt="aral-crisis"
-              />
+              <Image src="/aral-crisis-1.jpg" alt="aral-crisis" />
             </Container>
             <Text fontSize={"xl"}>
               {`The Aral Sea crisis is a classic example of how human activities
