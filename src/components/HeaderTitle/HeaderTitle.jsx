@@ -11,7 +11,7 @@ export default function HeaderTitle() {
       <Image
         borderRadius={"full"}
         boxSize={"70px"}
-        src="./public/logo.jpg"
+        src="/logo.jpg"
         alt="logo"
       />
       <Heading color={"#fff"}>AI Healthcare</Heading>

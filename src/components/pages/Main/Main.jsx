@@ -24,8 +24,8 @@ export default function Main() {
     <Flex flexDirection={"column"} padding={"70px 150px"} gap={"40px"}>
       {/* Section 1: Join Us */}
       <Flex
-        bgImage={"./public/main-join-us.webp"}
-        bgColor={"gray 100"}
+        bgImage={"/main-join-us.webp"}
+        bgColor={"#96b6c5"}
         bgRepeat={"no-repeat"}
         bgPosition={"center"}
         bgSize={"cover"}
@@ -57,7 +57,7 @@ export default function Main() {
         </Heading>
         <Container>
           <Image
-            src="./public/aral-years.png"
+            src="/aral-years.png"
             alt="aral-crisis"
             sizes="100px"
           />
